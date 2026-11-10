@@ -19,4 +19,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://kimsahoon.github.io/yeongseon-site/sitemap.xml
+Sitemap: https://yeongseon-sokcho.github.io/sitemap.xml
